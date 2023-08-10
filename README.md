@@ -1,5 +1,5 @@
 <h1 align = "center">Personality-Predict-Psychology</h1>
-<p align = "center">This project attempts to predit the person's personality based on the set of questions answered by the person.</p>
+<p align = "center">This project attempts to predit a person's personality based on the set of questions answered by the person.</p>
 
 ## Download Dataset
 <ins>Zipped (167 MB):</ins> [Download](https://www.kaggle.com/datasets/tunguz/big-five-personality-test?resource=download)
