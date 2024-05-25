@@ -19,5 +19,15 @@
 #### On using Colab platform executes code on Google's cloud servers.
 * [Google Colaboratory](https://colab.google/)
 
+## Final outcome of the model using Streamlit and Huggingface
+![image](https://github.com/Tarunika-R/Personality-Prediction-Psychology/assets/127477721/aab2793b-3c9c-4637-aac0-f20e9de2cc19)
+![image](https://github.com/Tarunika-R/Personality-Prediction-Psychology/assets/127477721/eb30178e-8040-4c01-9205-89d471a95568)
+![image](https://github.com/Tarunika-R/Personality-Prediction-Psychology/assets/127477721/0c9f6346-7e11-406b-bf96-599c891f110f)
+![image](https://github.com/Tarunika-R/Personality-Prediction-Psychology/assets/127477721/4182b908-208f-4467-944b-f69c4e8c0a12)
+![image](https://github.com/Tarunika-R/Personality-Prediction-Psychology/assets/127477721/a360e071-54a9-44e7-bc17-8bde4132eae8)
+![image](https://github.com/Tarunika-R/Personality-Prediction-Psychology/assets/127477721/cdc65d22-6915-4fc6-abf2-c44811a9ef84)
+![image](https://github.com/Tarunika-R/Personality-Prediction-Psychology/assets/127477721/4e2a33db-e662-4b79-8f52-03d2e4037ef1)
+
+
 
 ## 🤝 Support
